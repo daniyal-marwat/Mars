@@ -6,4 +6,4 @@ abc
 
 this is signup fix
 
-LIKE
+LOGOUT
